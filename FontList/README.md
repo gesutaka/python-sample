@@ -1,1 +1,1 @@
-# Show list of fonts
+# フォント一覧出力
